@@ -59,6 +59,7 @@ section:nth-child(5) {
 .dinosaurs,
 .pterosaurs {
   opacity: 0;
+  transition: all 350ms ease-in;
 }
 
 .js-fade-animate {
